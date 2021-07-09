@@ -1,0 +1,36 @@
+.rodape {
+  background: #2f4431;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  bottom: 0;
+}
+
+.rodape-principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.rodape-principal > * {
+  margin: 16px 0;
+}
+
+.redes {
+  width: 70px;
+  padding: 10px;
+}
+
+.rodape-texto {
+  color: #ffffff;
+  width: 100%;
+  font-size: 22px;
+  opacity: 0.5;
+  text-align: center;
+  padding: 10px;
+}

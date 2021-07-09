@@ -1,0 +1,44 @@
+[
+  {
+    "categoria": "Geral",
+    "imagem": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/noticias/2019/livro_vermelho_capa_2018.PNG",
+    "volume": "01",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol1.pdf"
+  },
+  {
+    "categoria": "Mamíferos",
+    "imagem": "https://i1.rgstatic.net/publication/328886623_Callithrix_aurita_E_Geoffroy_Saint-Hilaire_1812/links/5beace8d299bf1124fcf12a8/largepreview.png",
+    "volume": "02",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol2.pdf"
+  },
+  {
+    "categoria": "Aves",
+    "imagem": "https://files.passeidireto.com/Thumbnail/32c9eb31-1ec3-418f-8446-d2b303f3966f/210/1.jpg",
+    "volume": "03",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol3.pdf"
+  },
+  {
+    "categoria": "Répteis",
+    "imagem": "https://files.passeidireto.com/Thumbnail/ff5093c7-23e5-40c9-805b-2a5ffb46dbe6/210/1.jpg",
+    "volume": "04",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol4.pdf"
+  },
+  {
+    "categoria": "Anfíbios",
+    "imagem": "https://files.passeidireto.com/Thumbnail/b1d2f823-045a-4d65-b04e-fd03c5fd31fa/210/1.jpg",
+    "volume": "05",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol5.pdf"
+  },
+  {
+    "categoria": "Peixes",
+    "imagem": "https://www.icmbio.gov.br/cepsul/images/stories/noticias/2019/img_2019_01_livro_vermelho_peixes.png",
+    "volume": "06",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol6.pdf"
+  },
+  {
+    "categoria": "Invertebrados",
+    "imagem": "https://www.icmbio.gov.br/cepsul/images/stories/noticias/2019/img_2019_01_livro_vermelho_invertebrados.png",
+    "volume": "07",
+    "livro": "https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol7.pdf"
+  }
+]

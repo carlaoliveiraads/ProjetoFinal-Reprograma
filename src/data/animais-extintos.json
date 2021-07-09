@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "caburé-de-pernambuco (Glaucidium mooreorum)",
+    "classe": "Aves",
+    "imagem": "https://www.mundoecologia.com.br/wp-content/gallery/cabure/Cabur%C3%A9-de-Pernambuco-6.jpg",
+    "regiao": "floresta úmida de baixada no litoral pernambucano",
+    "possivelCausaExtincao": "Perda e fragmentação de habitat",
+    "ultimaVezVisto": "1980 /1990"
+  },
+  {
+    "nome": "limpa-folha-do-nordeste (Philydor novaesi)",
+    "classe": "Aves",
+    "imagem": "https://s3.amazonaws.com/media.wikiaves.com.br/images/932/239715_1f5a29671712e20dea90235675de3fcf.jpg",
+    "regiao": "Alagoas e Pernambuco",
+    "possivelCausaExtincao": "Afetada pela conversão das florestas para pastagens e/ou plantações",
+    "ultimaVezVisto": 2013
+  },
+  {
+    "nome": "arara-azul-pequena (Anodorhynchus glaucus)",
+    "classe": "Aves",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Arara-azul_pequena.jpg",
+    "regiao": "Sul do Brasil",
+    "possivelCausaExtincao": "Alvo de caça, expensão agropecúaria e gerra no paraguai",
+    "ultimaVezVisto": 1912
+  },
+  {
+    "nome": "maçarico-esquimó (Numenius borealis)",
+    "classe": "Aves",
+    "imagem": "https://dcmais.com.br/wp-content/uploads/2020/11/Numenius_borealis_Harvard_University-1536x1306.jpg",
+    "regiao": "Amazonas, Mato Grosso e São Paulo (regionalmente extinto)",
+    "possivelCausaExtincao": "Caça e perda de habitat",
+    "ultimaVezVisto": "há aproximadamente 150 anos"
+  },
+  {
+    "nome": "gritador-do-nordeste (Cichlocolaptes mazarbarnetti)",
+    "classe": "Aves",
+    "imagem": "https://umagotanooceano.org/wp-content/uploads/2019/01/50050979_1646121295487341_4514614483317948416_o-1-385x270.jpg",
+    "regiao": "Alagoas e Pernambuco",
+    "possivelCausaExtincao": "Perda de habitat ",
+    "ultimaVezVisto": 2007
+  },
+  {
+    "nome": "peito-vermelho-grande (Sturnella defilippii)",
+    "classe": "Aves",
+    "imagem": "https://dcmais.com.br/wp-content/uploads/2020/11/Peito-vermelho-grande.jpg",
+    "regiao": "Sul do Brasil (regionalmente extinto)",
+    "possivelCausaExtincao": "Caça e introdução de novas espécies na ilha",
+    "ultimaVezVisto": "há 100 anos"
+  },
+  {
+    "nome": "rato-de-noronha (Noronhomys vespuccii)",
+    "classe": "Mamíferos",
+    "imagem": "https://i.ytimg.com/vi/WoV8pNrS_14/hqdefault.jpg",
+    "regiao": "Ilha de Fernando de Noronha - PE",
+    "possivelCausaExtincao": "Caça e introdução de novas espécies na ilha",
+    "ultimaVezVisto": "século XVI"
+  },
+  {
+    "nome": "perereca-verde-de-fímbria (Phrynomedusa fimbriata)",
+    "classe": "Anfíbios",
+    "imagem": "https://pbs.twimg.com/media/EPPDQttW4AAemQJ.jpg",
+    "regiao": "Estado de São Paulo",
+    "possivelCausaExtincao": "Motivo desconhecido",
+    "ultimaVezVisto": "1923"
+  },
+  {
+    "nome": "tubarão-dente-de-agulha (Carcharhinus isodon)",
+    "classe": "Peixes",
+    "imagem": "data:image/jpeg;base64,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",
+    "regiao": "Sul do Brasil",
+    "possivelCausaExtincao": "Pesca de Arrasto",
+    "ultimaVezVisto": "há 40 anos"
+  },
+  {
+    "nome": "tubarão-lagarto (Schroederichthys bivius)",
+    "classe": "Peixes",
+    "imagem": "https://static.todamateria.com.br/upload/tu/ba/tubaraolagarto-cke.jpg",
+    "regiao": "Atlântico Ocidental: Sul do Brasil",
+    "possivelCausaExtincao": "Pesca de Arrasto e tráfego intenso de navios",
+    "ultimaVezVisto": "1988"
+  }
+]
